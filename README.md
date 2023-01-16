@@ -1,4 +1,4 @@
-# Image-classification-using-CNN
+# Garments Identification Machine using CNN
 
 •	This system can identify the type of clothing in a given photo. Worked independently to clean, analyze, visualize and predict in given fashion dataset. 
 
